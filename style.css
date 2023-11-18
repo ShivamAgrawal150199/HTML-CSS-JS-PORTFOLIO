@@ -275,6 +275,10 @@ border: rgb(255,255,255) 0.1rem solid;
     position: relative;
 }
 
+.icon2{
+    cursor: default;
+    height: 2rem;
+}
 .about-containers{
     gap: 2rem;
     margin-bottom: 2rem;
@@ -322,6 +326,11 @@ text-align: center;
     text-align: left;
 }
 
+.second-content{
+    margin-left: 2rem;
+    font-size: small;
+}
+
 /* .section__pic-container{
     height: 400px;
     width: 400px;
@@ -364,6 +373,12 @@ text-align: center;
 
 article .icon{
     cursor: default;
+}
+
+/* PROJECTS SECTION */
+
+#projects{
+    position: relative;
 }
 
 
